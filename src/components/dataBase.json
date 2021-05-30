@@ -1,0 +1,168 @@
+
+
+[
+    {
+        "id": 1,
+        "img": "https://i.blogs.es/a542c6/mortal-kombat-character-poster-mileena/450_1000.jpeg",
+        "movie": true,
+        "name": "Mortal Kombat",
+        "genre": ["Acción"],
+        "duration": "2hs",
+        "year": 2021
+    },
+
+    {
+        "id": 2,
+        "img": "https://es.web.img3.acsta.net/medias/nmedia/18/69/96/74/19239968.jpg",
+        "movie": true,
+        "name": "La isla siniestra",
+        "genre": ["Suspenso","Acción"],
+        "duration": "2:30hs",
+        "year": 2010
+    },
+
+    {
+        "id": 3,
+        "img": "https://vader.news/__export/1590629553159/sites/gadgets/img/2020/05/27/breaking_portada.jpg_1911154322.jpg",
+        "movie":false,
+        "name": "Breaking Bad",
+        "genre": ["Acción","Crimen"],
+        "duration": "5 Temporadas",
+        "year": 2008
+    },
+
+    {
+        "id": 4,
+        "img": "http://estaticos.elmundo.es/blogs/elmundo/asesinoenserie/imagenes_posts/2010/02/17/lost%201st_470x656.jpg",
+        "movie":false,
+        "name": "Lost",
+        "genre": ["Suspenso"],
+        "duration": "6 Temporadas",
+        "year": 2004
+    },
+
+    {
+        "id": 5,
+        "img":"http://d3ugyf2ht6aenh.cloudfront.net/stores/955/579/products/attack_on_titan_vol_12_cvr_135x190_slp_111-0f641a67f707a687dc15905361586978-640-01-dc1c16208268878c0c15965831205942-640-0.jpg",
+        "movie":false,
+        "name": "Attack on titan",
+        "genre": ["Acción","Suspenso","Anime"],
+        "duration": "4 Temporadas",
+        "year": 2013
+    },
+
+    {
+        "id": 6,
+        "img": "https://i.pinimg.com/originals/95/f6/a4/95f6a4945b35e1739ff82634da6865b5.jpg",
+        "movie":true,
+        "name": "El conjuro 3",
+        "genre": ["Terror","Suspenso"],
+        "duration": "2hs",
+        "year": 2013
+    },
+
+    {
+        "id": 7,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxqNuJHpRmz3LPzIXj5Ilcqcxk3yK28G-kUQ&usqp=CAU",
+        "movie":true,
+        "name": "Voler al futuro",
+        "genre": ["Ciencia ficcion"],
+        "duration": "3hs",
+        "year": 1985
+    },
+
+    {
+        "id": 8,
+        "img": "https://i.pinimg.com/564x/20/1a/1b/201a1b485e44680ef14e100658c5f1c7.jpg",
+        "movie":false,
+        "name": "La casa de papel",
+        "genre": ["Acción","Suspenso","Crimen"],
+        "duration": "3 Temporadas",
+        "year": 2018
+    },
+
+    {
+        "id": 9,
+        "img": "https://es.web.img3.acsta.net/pictures/19/09/18/13/46/0198270.jpg",
+        "movie":true,
+        "name": "Demon Slayer The Movie",
+        "genre": ["Anime","Acción"],
+        "duration": "1:30hs",
+        "year": 2021
+    
+    },
+
+    {
+        "id": 10,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81%2BNup8-8NL._SY445_.jpg",
+        "movie":true,
+        "name": "Avengers Endgame",
+        "genre": ["Acción"],
+        "duration": "2:30hs",
+        "year": 2020
+    },
+
+    {
+        "id": 11,
+        "img":"https://img.ecartelera.com/noticias/fotos/57600/57631/1.jpg",
+        "movie":false,
+        "name": "You",
+        "genre": ["Suspenso","Crimen"],
+        "duration": "2 Temporadas",
+        "year": 2019
+    },
+
+    {
+        "id": 12,
+        "img":"https://i.imgur.com/jzyYQ3m.jpg",
+        "movie":true,
+        "name": "The Irishman",
+        "genre": ["Crimen"],
+        "duration": "3hs",
+        "year": 2019
+    },
+
+    {
+        "id": 13,
+        "img":"https://m.media-amazon.com/images/M/MV5BODc5YTBhMTItMjhkNi00ZTIxLWI0YjAtNTZmOTY0YjRlZGQ0XkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_.jpg",
+        "movie":false,
+        "name": "Avatar The Last Airbender",
+        "genre": ["Anime", "Acción", "Fantasia"],
+        "duration": "3 Temporadas",
+        "year": 2004
+    },
+
+   
+
+    {
+        "id": 14,
+        "img":"https://www.pinkvilla.com/files/styles/amp_metadata_content_image_min_696px_wide/public/annabelle-comes-home-review-patrick-wilson-and-vera-farmigas-movie-is-a-jump-scare-extravaganza-with-a-heart.jpg?itok=n9IadV09",
+        "movie":true,
+        "name": "Anabelle",
+        "genre": ["Terror"],
+        "duration": "1:30hs",
+        "year": 2018
+    },
+
+    {
+        "id": 15,
+        "img":"https://flxt.tmsimg.com/assets/p9360990_p_v8_am.jpg",
+        "movie":true,
+        "name": "Pacific Rim",
+        "genre": ["Acción","Ciencia ficcion"],
+        "duration": "2hs",
+        "year": 2015
+    },
+
+    {
+        "id": 16,
+        "img":"https://www.region20.com.ar/images/62659_0.jpg",
+        "movie":false,
+        "name": "Los Simuladores",
+        "genre": ["Suspenso", "Comedia"],
+        "duration": "4 Temporadas",
+        "year": 2000
+    }
+
+
+]
