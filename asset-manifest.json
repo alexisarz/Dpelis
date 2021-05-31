@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Dpelis/static/css/main.0b9acd03.chunk.css",
+    "main.js": "/Dpelis/static/js/main.606ae06f.chunk.js",
+    "main.js.map": "/Dpelis/static/js/main.606ae06f.chunk.js.map",
+    "runtime-main.js": "/Dpelis/static/js/runtime-main.75be1121.js",
+    "runtime-main.js.map": "/Dpelis/static/js/runtime-main.75be1121.js.map",
+    "static/css/2.ff6c4ee4.chunk.css": "/Dpelis/static/css/2.ff6c4ee4.chunk.css",
+    "static/js/2.48cbf02b.chunk.js": "/Dpelis/static/js/2.48cbf02b.chunk.js",
+    "static/js/2.48cbf02b.chunk.js.map": "/Dpelis/static/js/2.48cbf02b.chunk.js.map",
+    "index.html": "/Dpelis/index.html",
+    "static/css/2.ff6c4ee4.chunk.css.map": "/Dpelis/static/css/2.ff6c4ee4.chunk.css.map",
+    "static/css/main.0b9acd03.chunk.css.map": "/Dpelis/static/css/main.0b9acd03.chunk.css.map",
+    "static/js/2.48cbf02b.chunk.js.LICENSE.txt": "/Dpelis/static/js/2.48cbf02b.chunk.js.LICENSE.txt",
+    "static/media/Jam.8b8743b2.jpg": "/Dpelis/static/media/Jam.8b8743b2.jpg",
+    "static/media/MK.2fc938c6.jpg": "/Dpelis/static/media/MK.2fc938c6.jpg",
+    "static/media/Shingeki.15b6dac7.jpeg": "/Dpelis/static/media/Shingeki.15b6dac7.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75be1121.js",
+    "static/css/2.ff6c4ee4.chunk.css",
+    "static/js/2.48cbf02b.chunk.js",
+    "static/css/main.0b9acd03.chunk.css",
+    "static/js/main.606ae06f.chunk.js"
+  ]
+}
